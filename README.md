@@ -2,7 +2,7 @@
 
 ## Overview
 As an advanced approach to computerized adaptive testing (CAT), 
-shadow testing (van der Linden(2005) <doi:10.1007/0-387-29054-0>) dynamically assembles entire shadow tests as a part of 
+shadow testing (van der Linden, 2005) dynamically assembles entire shadow tests as a part of 
 selecting items throughout the testing process. 
 Selecting items from shadow tests guarantees the compliance of all content 
 constraints defined by the blueprint. RSCAT is an R package for the 
@@ -32,7 +32,7 @@ Make sure Java and R are both of 64bit architecture.
     - commons-io (version >= 2.2)
         * Download "https://www-us.apache.org/dist//commons/io/binaries/commons-io-2.6-bin.zip" and extract the file "commons-io-2.6.jar".
     - commons-lang3 (version >= 3.6)
-        * Download "https://www-us.apache.org/dist//commons/lang/binaries/commons-lang3-3.8.1-bin.zip" and extract the file "commons-lang3-3.8.1.jar".
+        * Download "https://archive.apache.org/dist/commons/lang/binaries/commons-lang3-3.8.1-bin.zip" and extract the file "commons-lang3-3.8.1.jar".
     - commons-math3 (version >= 3.6.1)
         * Download "https://www-us.apache.org/dist//commons/math/binaries/commons-math3-3.6.1-bin.zip" and extract the file "commons-math3-3.6.1.jar".
     - log4j 1.x (version >= 1.2.17)
@@ -109,3 +109,8 @@ jar file installed under "/java" and edit the Mosel script "/org/act/mosel/shado
 
 ## Contact
 For technical issues and questions related to RSCAT, please send emails to rscat@act.org
+
+## Reference
+van der Linden, W. J. (2005). Linear Models for Optimal Test Design. New York, NY:
+Springer.
+
