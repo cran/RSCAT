@@ -1,6 +1,6 @@
 Package: RSCAT
 Title: Shadow-Test Approach to Computerized Adaptive Testing
-Version: 1.1.1
+Version: 1.1.2
 Authors@R: c(
   person("Bingnan", "Jiang", email = "bnjiangece@gmail.com", role = c("aut", "cre")),
   person("ACT, Inc.", role = "cph")
@@ -28,6 +28,6 @@ Collate: 'EAPConfig.R' 'SimResult.R' 'configClasses.R' 'launchApp.R'
         'shinyAppUI.R' 'utilFunctions.R' 'zzz.R'
 Suggests: testthat
 NeedsCompilation: no
-Packaged: 2021-05-08 20:46:41 UTC; Bingnan
+Packaged: 2021-05-16 17:40:07 UTC; Bingnan
 Repository: CRAN
-Date/Publication: 2021-05-08 21:50:02 UTC
+Date/Publication: 2021-05-16 18:20:02 UTC
