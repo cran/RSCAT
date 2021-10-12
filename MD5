@@ -1,4 +1,4 @@
-c617bbeac86dc4cb9b827c1cc303ff4e *DESCRIPTION
+4a1d6c8659da0ef0aefc444ad9f9ff4d *DESCRIPTION
 234acac090b9eaa534077f32c9a318da *NAMESPACE
 60da73b72b740a4a9660998c87b8b8e8 *R/EAPConfig.R
 4ffb5eb5c3b39ff164acd8ed68d4aa85 *R/SimResult.R
@@ -10,17 +10,17 @@ b74761b5ac4a41b3cdd943fb0e2f10e8 *R/shinyAppServer.R
 cbb06fbdfc64355de8d83768550f41ee *R/shinyAppUI.R
 d1e9a092d53fb3d36dbd9241603b1940 *R/utilFunctions.R
 e6877fe5f1dacaeb17003b980799069c *R/zzz.R
-3a3f3b4b375e8ff156471562a443c148 *README.md
+260bca465a5355afa4bcd197271dad69 *README.md
 fe0e9fc06506b6fa62e98fc660ad3a8e *inst/extdata/constraintSet1.csv
 0681a887886e513a404d9949f7e7e6d8 *inst/extdata/constraintSet2.csv
 e7268775db95bc2446390549075e0e5f *inst/extdata/constraint_syntax.xlsx
 c6ffae9d131be1cdca805d42f82da8c1 *inst/extdata/itemPool10Items.csv
 45bdbe382bed6eacc3286f7272fdcb1f *inst/extdata/itemPool720Items.csv
 019c575cab2f1a9947b0b7feac478f7e *inst/extdata/passagePool30Passages.csv
-8852a4720d1697a63fc4215098620615 *inst/java/RSCAT-1.1.2.jar
+c811dd506985e6302342e08d082776c5 *inst/java/RSCAT-1.1.3.jar
 9b813355825308d42d73a9cab0af2ad9 *inst/shinyApp/app.R
 e6b0783866fd7e6cb884b2da101efc81 *inst/shinyApp/images/RSCAT_logo.png
-b364b73e365efdb7081dce5747db5e89 *java/pom.xml
+d0b8f68afc8a713e3034c37d5132d064 *java/pom.xml
 79681079f504b0d099681e7a9313032f *java/src/main/java/org/act/rscat/cat/AbstractScoringMethodConfig.java
 18c8d54c136394f5d61345089d6a952c *java/src/main/java/org/act/rscat/cat/CatConfig.java
 e20d112fa70ba9381593fbc214754225 *java/src/main/java/org/act/rscat/cat/CatConfigStandard.java
